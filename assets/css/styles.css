@@ -247,3 +247,11 @@ section {
     width: 100px;
     height: 100px;
 }
+
+.final{
+    
+    background-color: DodgerBlue;
+    
+    padding: 40px 70px;
+    grid-template-columns: repeat(4 1fr);
+  }
