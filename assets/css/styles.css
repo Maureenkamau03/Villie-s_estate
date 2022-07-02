@@ -169,8 +169,11 @@ section {
     margin: 0 1.5%;
     text-align: center;
     align-items: center;
+    padding: 50px 20px;
+    line-height: 20px;
 }
 
 .how-it-works section img{
-    padding: 0 50%;
+    width: 100px;
+    height: 100px;
 }
