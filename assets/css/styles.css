@@ -248,10 +248,14 @@ section {
     height: 100px;
 }
 
-.final{
-    
+.footer{
+    display:grid;
+    gap: 5 em;
     background-color: DodgerBlue;
-    
     padding: 40px 70px;
     grid-template-columns: repeat(4 1fr);
+  }
+
+  .footer li{
+    display:block;
   }
