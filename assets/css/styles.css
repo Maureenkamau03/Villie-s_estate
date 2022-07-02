@@ -249,13 +249,14 @@ section {
 }
 
 .footer{
-    display:grid;
+    display:flex;
     gap: 5 em;
     background-color: DodgerBlue;
     padding: 40px 70px;
-    grid-template-columns: repeat(4 1fr);
+    line-height: 30px;
   }
 
-  .footer li{
+.footer li{
     display:block;
   }
+
