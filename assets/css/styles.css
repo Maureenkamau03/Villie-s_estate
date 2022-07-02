@@ -134,3 +134,8 @@ section {
 .infor .max-price .price{
     color: #0F298B;
 }
+
+.products h1{
+    color: #0F298B;
+    padding-left: 30px;
+}
