@@ -156,7 +156,7 @@ section {
 }
 
 .how-it-works{
-    margin: 0 100px;
+    margin: 30px 100px;
     display:flex;
     gap:2 em;
     
@@ -167,7 +167,7 @@ section {
     float: left;
     background-color: white;
     width: 30%;
-    height: 350px;
+    height: 300px;
     margin: 0 1.5%;
     text-align: center;
     align-items: center;
@@ -210,4 +210,40 @@ section {
 .hero2-text1 .text2_2{
     color: #858080;
     font-size: large;
+}
+
+.featured{
+    text-align: center;
+}
+.featured h2{
+    color: #0F298B;
+}
+.featured .featured-text{
+    color: #656669;
+    font-size: 20px;
+}
+
+.chose_us{
+    margin: 0 100px;
+    display:flex;
+    gap:2 em;
+    
+
+}
+
+.choose_us section{
+    float: left;
+    background-color: white;
+    width: 30%;
+    height: 250px;
+    margin: 0 1.5%;
+    text-align: center;
+    align-items: center;
+    padding: 50px 20px;
+    line-height: 20px;
+}
+
+.choose_us section img{
+    width: 100px;
+    height: 100px;
 }
