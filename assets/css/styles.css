@@ -248,15 +248,36 @@ section {
     height: 100px;
 }
 
+.Alex-Godwin{
+    margin: 30px 100px;
+    display:flex;
+    gap:2 em;
+}
+.Alex-Godwin section{
+    float: left;
+    background-color: white;
+    width: 30%;
+    height: 200px;
+    margin: 0 1.5%;
+    text-align: left;
+   
+    padding: 50px 20px;
+    line-height: 20px;
+}
 .footer{
     display:flex;
-    gap: 5 em;
-    background-color: DodgerBlue;
+    gap: 70px;
+    background-color: #2549D3;
     padding: 40px 70px;
     line-height: 30px;
   }
 
 .footer li{
     display:block;
+    color: white;
+    text-align: left;
   }
-
+.footer p{
+    color: white;
+    padding-left: 30px;
+}
