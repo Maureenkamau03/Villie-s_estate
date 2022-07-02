@@ -1,5 +1,5 @@
 body{
-    background-color: #FAFAFA;
+    background-color: #eeebeb;
     font-family: Space Grotesk;
 }
 
@@ -53,7 +53,10 @@ a:visited{
     color: black;
  }
 
-
+.hero{
+    height:400px;
+    width: auto;
+}
 
 section {
     float: left;
@@ -84,7 +87,7 @@ section {
     color: #0F298B;
 }
 .hero-text .text2{
-    color: grey;
+    color: #FAFAFA;
     font-size: large;
 }
 
@@ -99,5 +102,14 @@ section {
     width: 100px;
 }
 
+.infor{
+    display: flex;
+    min-height: 5em;
+    width:auto; 
+    background-color: whitesmoke;
+    border-radius: 7px;
+    margin: 0 200px;
+   
+}
 
 
