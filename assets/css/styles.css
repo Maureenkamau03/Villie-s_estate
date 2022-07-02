@@ -91,9 +91,9 @@ section {
     font-size: large;
 }
 
-.btn{
+.btn button{
     background-color: #0F298B;
-    
+    color:white;
     padding: 5px;
     border-radius: 5px;
     
@@ -104,12 +104,24 @@ section {
 
 .infor{
     display: flex;
+    gap: 8em;
     min-height: 5em;
     width:auto; 
     background-color: whitesmoke;
     border-radius: 7px;
     margin: 0 200px;
+    font-size: 30px;
+    
    
 }
+.searchbutton button{
+    background-color: #0F298B;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin:0px 0px 0px 0px;
+    font-size: 30px;
+    
 
+}
 
