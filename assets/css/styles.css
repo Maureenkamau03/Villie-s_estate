@@ -111,6 +111,7 @@ section {
     border-radius: 7px;
     margin: 0 200px;
     font-size: 30px;
+    padding-left: 40px;
     
    
 }
@@ -122,6 +123,14 @@ section {
     margin:0px 0px 0px 0px;
     font-size: 30px;
     
+}
+.infor .location .loc{
+    color: #0F298B;
 
 }
-
+.infor .prop-type .prop{
+    color: #0F298B;
+}
+.infor .max-price .price{
+    color: #0F298B;
+}
