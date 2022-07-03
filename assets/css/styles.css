@@ -233,13 +233,14 @@ section {
     line-height: 40px;
 }
 
-.qualities img{
+/* .qualities img{
     width: 20px;
     height: 20px;
-}
+} */
 
 .featured{
     text-align: center;
+    
 }
 .featured h2{
     color: #0F298B;
@@ -273,6 +274,47 @@ section {
     width: 100px;
     height: 100px;
 }
+.choose_us li{
+    padding-left: 100px;
+}
+
+.houses{
+    margin: 30px 100px;
+    display:flex;
+    gap:2 em;
+    max-height: 300px;
+    
+
+}
+.houses section{
+    float: left;
+    background-color: white;
+    width: 30%;
+    height: 200px;
+    margin: 0 1.5%;
+    text-align: center;
+    align-items: center;
+    padding: 50px 20px;
+    line-height: 20px;
+}
+
+.houses section img{
+    width: 100%;
+    /* height: 100px; */
+}
+
+.customers{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.customers h2{
+    color: #0F298B;
+}
+.customers .customers-text{
+    color: #656669;
+    font-size: 20px;
+}
 
 .Alex-Godwin{
     margin: 30px 100px;
@@ -283,7 +325,7 @@ section {
     float: left;
     background-color: white;
     width: 30%;
-    height: 200px;
+    min-height: 200px;
     margin: 0 1.5%;
     text-align: left;
    
