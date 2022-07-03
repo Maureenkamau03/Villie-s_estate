@@ -1,8 +1,9 @@
 body{
     background-color: #fffbfb;
-    font-family: "Space Grotesk", sans-serif;
+    font-family: "Space Grotesk", "sans-serif";
     overflow: scroll;
     margin: auto;
+    max-width: 85%;
 }
 
 @media all and (min-width: 1240px) {
@@ -29,22 +30,24 @@ li{
 .nav_left{
     font-family: "Oleo Script";
     float: left;
-    padding-left: 10em;
+    padding-left: 8em;
     font-weight: bold;
 }
 
 .nav_center{
     display: flex;
     gap: 2em;
-    padding-left: 30em;
+    padding-left: 10em;
     align-items: center;
     
 }
 
 .nav_right{
     float:right;
-    width: 50px;
+    width: 100px;
     margin-right: 40px;
+    
+    
     
 }
 
@@ -53,7 +56,7 @@ li{
     color: white;
     padding: 5px;
     border-radius: 5px;
-    margin:0px 0px 0px 0px;
+    margin-bottom: 20px;
 }
 a:visited{
     color: #0F298B;
@@ -78,11 +81,11 @@ section {
 
 .hero img{
     height:300px;
-    width:50%
+    /* width:50%; */
     
 }
 .hero-image{
-    padding:20px;
+    padding:10px;
     
 }
 
@@ -191,7 +194,7 @@ section {
 
 .hero2 img{
     height:300px;
-    width:50%;
+    /* width:50%; */
     margin: 0 100px;
 }
 
