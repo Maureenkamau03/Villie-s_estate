@@ -1,5 +1,5 @@
 body{
-    background-color: #fffbfb;
+    background-color: rgb(240, 240, 240);
     font-family: "Space Grotesk", "sans-serif";
     overflow: scroll;
     margin: auto;
@@ -46,6 +46,7 @@ li{
     float:right;
     width: 100px;
     margin-right: 40px;
+    margin-bottom:50px;
     
     
     
@@ -120,7 +121,7 @@ section {
     gap: 8em;
     min-height: 5em;
     width:auto; 
-    background-color: whitesmoke;
+    background-color: white;
     border-radius: 7px;
     margin: 0 200px;
     font-size: 20px;
@@ -133,7 +134,8 @@ section {
     color: white;
     padding: 5px;
     border-radius: 5px;
-    margin:50px 0px 0px 0px;
+    margin-right: 60px;
+    margin-top: 50px;
     font-size: 20px;
     
 }
@@ -149,7 +151,8 @@ section {
 }
 
 .products{
-    margin: 0 100px;
+    margin-top: 100px;
+    padding-left: 50px;
 }
 .products h1{
     color: #0F298B;
@@ -350,6 +353,10 @@ section {
     color: white;
     padding-left: 30px;
 }
+.footer h2{
+    color: white;
+    padding-left: 30px;
+}
 .alex{
     float: right;
     
@@ -362,4 +369,10 @@ section {
     border-radius: 8px;
     margin:0px 70px 0px 0px;
     
+}
+.bold{
+    font-weight: bold;
+}
+.style{
+    color: #2549D3;
 }
