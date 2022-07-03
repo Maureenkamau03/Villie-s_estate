@@ -224,6 +224,20 @@ section {
     font-size: large;
 }
 
+.qualities{
+    display: flex;
+    
+}
+.qualities li{
+    display: block;
+    line-height: 40px;
+}
+
+.qualities img{
+    width: 20px;
+    height: 20px;
+}
+
 .featured{
     text-align: center;
 }
