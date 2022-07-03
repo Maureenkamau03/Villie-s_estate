@@ -1,8 +1,17 @@
 body{
     background-color: #fffbfb;
-    font-family: Space Grotesk;
+    font-family: "Space Grotesk", sans-serif;
+    overflow: scroll;
+    margin: auto;
 }
 
+@media all and (min-width: 1240px) {
+	body {
+		max-width: 1290px !important;
+		margin: auto !important;
+		height: 100%;
+	}
+}
 .navbar{
    
     min-width: auto;
@@ -18,7 +27,7 @@ li{
 }
 
 .nav_left{
-    font-family:  Baskerville;
+    font-family: "Oleo Script";
     float: left;
     padding-left: 10em;
     font-weight: bold;
