@@ -9,12 +9,12 @@ a {
 }
 .btn {
 	color: #fff;
-
+	font-weight: 600;
 	background-color: #2549d3;
 
 	font-size: 18px;
 	border: none;
-	padding: 10px 20px;
+	padding: 15px;
 	border-radius: 7px;
 }
 @media (min-width: 1240px) {
@@ -26,6 +26,10 @@ a {
 }
 .container {
 	background-color: #fafafa !important;
+}
+.box-shadow {
+	box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px,
+		rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
 }
 .navbar {
 	border-bottom: 1px solid grey;
@@ -110,14 +114,16 @@ section {
 
 .infor {
 	display: flex;
-	gap: 8em;
-	min-height: 5em;
-	width: auto;
+	align-items: center;
+	/* gap: 8em; */
+	/* min-height: 5em; */
+	width: 80%;
 	background-color: white;
-	border-radius: 7px;
-	margin: 0 200px;
+	border-radius: 10px;
+	margin: 50px auto 10px;
 	font-size: 20px;
-	padding-left: 40px;
+	padding: 15px;
+	justify-content: space-between;
 }
 
 .infor .location .loc {
@@ -152,6 +158,7 @@ section {
 
 .how-it-works {
 	margin: 30px 100px;
+	width: 80%;
 	display: flex;
 	gap: 2 em;
 }
@@ -160,7 +167,7 @@ section {
 	float: left;
 	background-color: white;
 	width: 30%;
-	height: 300px;
+	/* height: 300px; */
 	margin: 0 1.5%;
 	text-align: center;
 	align-items: center;
@@ -181,6 +188,7 @@ section {
 
 .hero2-image1 {
 	padding: 20px;
+	width: 80%;
 }
 
 .hero2 {
