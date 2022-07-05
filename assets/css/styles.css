@@ -157,10 +157,10 @@ section {
 }
 
 .how-it-works {
-	margin: 30px 100px;
 	width: 80%;
 	display: flex;
-	gap: 2 em;
+	align-items: center;
+	margin: 100px auto 10px;
 }
 
 .how-it-works section {

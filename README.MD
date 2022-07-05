@@ -1,16 +1,43 @@
 # Villie-s_estate
 
-This is a simple landing page for a real estate company. It provides images of featured properties with their respective prices and locations.
+###### By Maureen Kamau
 
-Author: Maureen Kamau
+## Table of contents
 
-Live link: https://maureenkamau03.github.io/Villie-s_estate/
++[Description](#description) +[Installation Requirement](#Installation) +[Technology Used](#Technology-used) +[Reference](#Reference) +[License](#License) +[Authors Infor](#Authors-Infor)
 
-Technology used: - HTML - which was used to build the structure of the pages.
+## Description
+
+    This is a simple landing page for a real estate company. It provides images of featured properties with their respective prices and locations.
+
+## Installation
+
+### Requirements
+
+-Either a computer, Ipad, tablet or phone
+-An access to internet connection
+
+### Installation process
+
+[Go back to the top](#Villie-s_estate)
+
+## Live link
+
+https://maureenkamau03.github.io/Villie-s_estate/
+
+### Technology used
+
+- HTML - which was used to build the structure of the pages.
 
 - CSS - which was used to style the pages
 
-License: MIT License
+## Reference
+
+Custom CSS
+
+## License
+
+MIT License
 
 Copyright: Copyright (c) 2022 Maureen Kamau
 
@@ -19,3 +46,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Author's Infor
+
+LinkedIn- https://www.linkedin.com/in/maureen-kamau-ba6470212
