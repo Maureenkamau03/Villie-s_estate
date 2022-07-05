@@ -4,11 +4,16 @@
 
 ## Table of contents
 
-+[Description](#description) +[Installation Requirement](#Installation) +[Technology Used](#Technology-used) +[Reference](#Reference) +[License](#License) +[Authors Infor](#Authors-Infor)
+- [Description](#description)
+- [Installation Requirement](#Installation)
+- [Technology Used](#Technology-used)
+- [Reference](#Reference)
+- [License](#License)
+- [Authors Infor](#Authors-Infor)
 
 ## Description
 
-    This is a simple landing page for a real estate company. It provides images of featured properties with their respective prices and locations.
+This is a simple landing page for a real estate company. It provides images of featured properties with their respective prices and locations.
 
 ## Installation
 

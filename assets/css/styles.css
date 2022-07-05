@@ -7,6 +7,9 @@ body {
 a {
 	text-decoration: none;
 }
+/* img:hover {
+	zoom: 50%;
+} */
 .btn {
 	color: #fff;
 	font-weight: 600;
@@ -276,8 +279,13 @@ section {
 
 .houses section img {
 	width: 100%;
+
 	/* height: 100px; */
 }
+/* .houses section > img .hover {
+	zoom: 20%; */
+
+/* height: 100px; */
 
 .customers {
 	text-align: center;
